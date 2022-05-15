@@ -20,10 +20,8 @@
               </li>
             </ul>
             <p>
-                The Marketplace contracts are yet to be professionally audited. <br /> The Temp-Mint and "PharOut/Pham"
-                NFT contracts are the only contracts enabled for interaction on mainnet at this point.
+                The Marketplace contracts are yet to be professionally audited. <br />
                 <br/> The full marketplace proxy suite has been deployed and coded in for website testing/interaction.
-                <br/> Please only test if you are sure of what you are doing. Functions and settings are subject to change as we build.
                 <br />
                 <a href="https://github.com/PharOutLabs/PharOut-NFTs">
                   You can find the contracts here for personal review.
@@ -34,12 +32,10 @@
                 The smart contracts are on display for your inspection and anyone can inspect the front-end for
                 themselves, only use the dApp if you feel comfortable. We do not offer any user guarantees or refunds
                 at this time.
-                <br /> Current data file structures are subject to change during this time period.
-                <br /> Any user profile information entered may be moved or lost.
                 <br /> All financial data is stored on the blockchain through the proxy contracts,
                 📦🔗📦🔗📦🔗📦🔗📦🔗📦🔗📦
                 <br /> no financial information is stored on the distributed database.
-                <br /> The only user identification needed is your Crypto Wallet Address, or your IP Address. No further
+                <br /> The only user identification needed is your crypto wallet address, or your IP Address. No further
                 identification material necessary.
                 <br /> User profiles are created using passwords that only the user knows. We do not hold custody to
                 your database private key and can not gain access to it or recover it if your password is forgotten!
